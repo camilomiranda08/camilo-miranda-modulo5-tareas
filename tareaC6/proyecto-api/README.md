@@ -106,11 +106,11 @@ Aquí están las capturas de pantalla de las pruebas realizadas con Postman:
 
 - **GET /products**
 
-  ![GET /products](![alt text](image.png))
+  ![GET /products](![alt text](./assets/image.png))
 
 - **GET /products/:id**
 
-  ![GET /products/:id](![alt text](image-1.png))
+  ![GET /products/:id](![alt text](./assets/image-1.png))
 
 ## Documentación Adicional
 
