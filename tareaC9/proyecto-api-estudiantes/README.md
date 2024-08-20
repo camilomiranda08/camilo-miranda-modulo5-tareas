@@ -37,7 +37,7 @@ Obtiene la lista de todos los estudiantes.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo GET /students](![alt text](tareaC9\proyecto-api-estudiantes\assets\image.png))
+![Ejemplo GET /students](![alt text](./assets/image.png))
 
 ### GET /students/:id
 
@@ -45,7 +45,7 @@ Obtiene los detalles de un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo GET /students/:id](![alt text](tareaC9\proyecto-api-estudiantes\assets\image-1.png))
+![Ejemplo GET /students/:id](![alt text](./assets/image-1.png))
 
 ### DELETE /students/:id
 
@@ -53,8 +53,8 @@ Elimina un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo DELETE /students/:5](![eliminando esudiante 5 con middlewares ](<(tareaC9\proyecto-api-estudiantes\assets\image-11.png)>))
-![Ejemplo DELETE /students/:5](![estudiante eliminado ya reflejado enla base de datos](<(tareaC9\proyecto-api-estudiantes\assets\image-12.png)>))
+![Ejemplo DELETE /students/:5](![eliminando esudiante 5 con middlewares ](./assets/image-11.png))
+![Ejemplo DELETE /students/:5](![estudiante eliminado ya reflejado enla base de datos](./assets/image-12.png))
 
 **Respuesta:**
 
@@ -67,7 +67,7 @@ Crea un nuevo estudiante.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo POST /students](![Creando 1 esudiante con middlewares](<![](![alt text](tareaC9\proyecto-api-estudiantes\assets\image-9.png))>))
+![Ejemplo POST /students](![Creando 1 esudiante con middlewares](./assets/image-9.png))
 
 ### PUT /students/:id
 
@@ -75,7 +75,7 @@ Actualiza la información de un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo PUT /students/1](![Actualizando la informacion de 1 esudiante con middlewares](<![](![alt text](tareaC9\proyecto-api-estudiantes\assets\image-10.png)))>)
+![Ejemplo PUT /students/1](![Actualizando la informacion de 1 esudiante con middlewares.](./assets/image-10.png))
 
 ## Configuración del Proyecto
 
