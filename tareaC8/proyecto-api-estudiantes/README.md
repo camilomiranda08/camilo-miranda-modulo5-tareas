@@ -10,7 +10,7 @@ Obtiene la lista de todos los estudiantes.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo GET /students](![alt text](image.png))
+![Ejemplo GET /students](![alt text](./assets/image.png))
 
 ### GET /students/:id
 
@@ -18,7 +18,7 @@ Obtiene los detalles de un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo GET /students/:id](![alt text](image-1.png))
+![Ejemplo GET /students/:id](![alt text](./assets/image-1.png))
 
 ### DELETE /students/:id
 
@@ -26,9 +26,9 @@ Elimina un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo DELETE /students/:id](![eliminando 1 esudiante](image-2.png))
-![Ejemplo 2 DELETE /students/:id](![eliminado 1 estudiante de la "base de datos"](image-3.png))
-![Ejemplo 3 DELETE /students/:id](![servidor actualizado con el 1 estudiante eliminado en postman](image-4.png))
+![Ejemplo DELETE /students/:id](![eliminando 1 esudiante](./assets/image-2.png))
+![Ejemplo 2 DELETE /students/:id](![eliminado 1 estudiante de la "base de datos"](./assets/image-3.png))
+![Ejemplo 3 DELETE /students/:id](![servidor actualizado con el 1 estudiante eliminado en postman](./assets/image-4.png))
 
 **Respuesta:**
 
@@ -41,8 +41,8 @@ Crea un nuevo estudiante.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo POST /students](![Creando 1 esudiante](<![](image-5.png)>))
-![Ejemplo POST 2 /students](![Creando 1 estudiante, ya aparece en la "base de datos actualizada"](<![](![alt text](image-6.png))>))
+![Ejemplo POST /students](![Creando 1 esudiante](./assets/image-5.png))
+![Ejemplo POST 2 /students](![Creando 1 estudiante, ya aparece en la "base de datos actualizada"](./assets/image-6.png))
 
 ### PUT /students/:id
 
@@ -50,8 +50,8 @@ Actualiza la información de un estudiante específico por su ID.
 
 **Ejemplo de respuesta:**
 
-![Ejemplo PUT /students/4](![Actualizando la informacion de 1 esudiante](<![](![alt text](image-7.png))>))
-![Ejemplo PUT 2 /students/4](![actualizando info de 1 estudiante, ya aparece actualizacion en la "base de datos"](<![](![alt text]((image-8.png)))>))
+![Ejemplo PUT /students/4](![Actualizando la informacion de 1 esudiante](./assets/image-7.png))
+![Ejemplo PUT 2 /students/4](![actualizando info de 1 estudiante, ya aparece actualizacion en la "base de datos"](./assets/image-8.png))
 
 ## Configuración del Proyecto
 
